@@ -13,9 +13,9 @@ summary: |
   Test execution on browserstack
 description: |
   Test execution on browserstack
-website: https://github.com/uBaranQA/bitrise-step-browserstack-app-automate-execution
-source_code_url: https://github.com/uBaranQA/bitrise-step-browserstack-app-automate-execution
-support_url: https://github.com/uBaranQA/bitrise-step-browserstack-app-automate-execution
+website: https://github.com/piotr-baran-infinum/browserstack-app-automate
+source_code_url: https://github.com/piotr-baran-infinum/browserstack-app-automate
+support_url: https://github.com/piotr-baran-infinum/browserstack-app-automate
 host_os_tags:
   - osx-10.10
   - ubuntu-16.04
